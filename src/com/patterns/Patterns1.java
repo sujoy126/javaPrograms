@@ -9,5 +9,6 @@ public class Patterns1 {
 			System.out.println();
 		}
 	}
+	//sujoy
 
 }
