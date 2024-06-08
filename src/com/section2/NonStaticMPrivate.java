@@ -9,7 +9,7 @@ public class NonStaticMPrivate {
 	
 	
 	private void m2() {
-		m1();
+//		m1();
 		System.out.println("This not a protected method");
 	}
 	

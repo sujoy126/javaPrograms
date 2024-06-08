@@ -4,6 +4,7 @@ public class SeperateString {
 	public static void main(String[] args) {
 		String str = "core java";
 		int divideInx = str.lastIndexOf(" ");
+		System.out.println(divideInx);
 		String st1 = str.substring(0, divideInx);
 		String st2 = str.substring(divideInx);
 		String s = "";

@@ -22,5 +22,4 @@ public class SringOrderwise {
 		  String s = alphabets.toString() + numbers.toString() + specialCharactor.toString();
 		  System.out.println(s);
 	}
-
 }

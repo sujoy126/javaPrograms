@@ -2,7 +2,7 @@ package com.section1;
 
 public class UpercaseOrLowercase {
 	public static void main(String[] args) {
-		char ch = 's';
+		char ch = '%';
 		if(ch>='A' && ch<='Z') {
 			System.out.println(ch+" uppercase");
 		}
@@ -10,10 +10,8 @@ public class UpercaseOrLowercase {
 			System.out.println(ch+" lowercase");
 		}
 		else {
-		System.out.println("this is not a charactor");
+		System.out.println(ch+" is not a Alphabet");
 		}
-		
-		
 	}
 
 }

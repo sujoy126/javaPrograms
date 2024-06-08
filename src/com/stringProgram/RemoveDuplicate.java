@@ -45,7 +45,31 @@ public class RemoveDuplicate {
 				sb3.append(ch3[i]);
 			}
 		}
-		System.out.println(sb3);				
+		System.out.println(sb3);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 	}
 
 }

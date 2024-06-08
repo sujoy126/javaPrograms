@@ -10,7 +10,7 @@ public class ConvertCase {
 			
 			if(Character.isUpperCase(ch)) {
 				ch = Character.toLowerCase(ch);
-				s=s+ch;
+				s=s+ch; 
 			}
 			else {
 				ch =Character.toUpperCase(ch);

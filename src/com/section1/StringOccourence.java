@@ -10,6 +10,7 @@ public class StringOccourence {
 			for(int j=0; j<ch.length; j++) {
 				if(ch[i]==ch[j] && i>j) {
 					break;
+					
 				}
 				if(ch[i]==ch[j]) {
 					count++;

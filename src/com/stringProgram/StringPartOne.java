@@ -2,8 +2,8 @@ package com.stringProgram;
 
 public class StringPartOne {
 	public static void main(String[] args) {
-		String s = "VamshiBanda";
-		int lastindex = s.lastIndexOf('B');
+		String s = "Vamshi Banda";
+		int lastindex = s.lastIndexOf(' ');
 		String s1 = s.substring(0, lastindex);
 		String s2 = s.substring(lastindex);
 		System.out.print(s1);
