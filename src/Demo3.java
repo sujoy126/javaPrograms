@@ -7,10 +7,10 @@ class B extends A
 	@Override
 	public void m1()
 	{
-		System.out.println("m1");
+		System.out.println("m1 present");
 	}
 	public void m2() {
-		System.out.println("m2");
+		System.out.println("m2 present");
 	}
 }
 public class Demo3 {	

@@ -12,6 +12,10 @@ public class ConcatArray {
 		
 		System.out.println("Total Array : "+ Arrays.toString(newArray));
 		
+//		String st1 =  Arrays.toString(ary1);
+//		String st2 = Arrays.toString(ary2);
+//		System.out.println(st1+st2);
+		
 				
 	}
 
