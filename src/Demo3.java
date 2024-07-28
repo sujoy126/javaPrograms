@@ -9,6 +9,7 @@ class B extends A
 	{
 		System.out.println("m1 present");
 	}
+	
 	public void m2() {
 		System.out.println("m2 present");
 	}

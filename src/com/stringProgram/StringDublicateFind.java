@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class StringDublicateFind {
 	public static void main(String[] args) {
-		String str = "we are indian we can do it";
+		String str = "we are indian we can do it it";
 		String st[]= str.split(" ");
 		
 		Set<String> uniqueS = new HashSet<>();

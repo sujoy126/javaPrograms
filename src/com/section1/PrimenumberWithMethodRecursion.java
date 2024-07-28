@@ -2,7 +2,7 @@ package com.section1;
 
 import java.util.Scanner;
 
-public class Primenumber11 {
+public class PrimenumberWithMethodRecursion {
 	public static void main(String[] args) {
 		Scanner sc  = new Scanner(System.in);
 		System.out.println("provide number");
@@ -10,7 +10,7 @@ public class Primenumber11 {
 		
 		for(int i=2; i*i<=num; i++) {
 			if(num%i==0) {
-				System.out.println(num+" is not a prime number");
+				System.out.println(num+" is not a prime number");	
 				return;
 			}
 		}
